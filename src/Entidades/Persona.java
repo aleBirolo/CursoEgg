@@ -14,7 +14,8 @@ import java.util.Date;
 public class Persona {
     private String nombre;
     private Date fecNac;
-
+    private int atributo_nuevo;
+    
     public Persona() {
     }
 
