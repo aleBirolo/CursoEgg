@@ -15,6 +15,7 @@ public class Persona {
     private String nombre;
     private Date fecNac;
     private int atributo_nuevo;
+    private int atributo_2;
     
     public Persona() {
     }
