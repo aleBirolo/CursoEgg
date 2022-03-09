@@ -16,6 +16,7 @@ public class Persona {
     private Date fecNac;
     private int atributo_nuevo;
     private int atributo_2;
+    private String santiatributo;
     
     public Persona() {
     }
