@@ -17,6 +17,7 @@ public class Persona {
     private int atributo_nuevo;
     private int atributo_2;
     private String santiatributo;
+    private String santiatributo2;
     
     public Persona() {
     }
